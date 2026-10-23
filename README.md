@@ -1,5 +1,3 @@
-# CyberSec-Notes
-Base de conhecimento em Cibersegurança | Estudos e ferramentas 
 <div align="center">
 
 <img src="./orbital-cyber-banner.png" width="100%" alt="CyberSec Notes — Orbital Cyber" />
