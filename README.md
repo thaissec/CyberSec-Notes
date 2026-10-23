@@ -91,8 +91,6 @@ Parte das anotações foi desenvolvida a partir de estudos no curso **Cibersegur
 
 **Computer Science Student · Cybersecurity Enthusiast**
 
-[![Portfólio](https://img.shields.io/badge/PORTFÓLIO-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thatacoelho.com.br)
-
 <sub>CYBERSEC NOTES · LEARN / PRACTICE / DOCUMENT / EVOLVE</sub>
 
 </div>
