@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./orbital-cyber-banner.png" width="100%" alt="CyberSec Notes — Orbital Cyber" />
-
-<br>
+<img src="./orbital-cyber-banner.png" alt="CyberSec Notes — Orbital Cyber" width="100%" />
 
 # CYBERSEC NOTES
 
@@ -10,12 +8,10 @@
 
 **LEARN · ANALYZE · DEFEND · EVOLVE**
 
-<br>
-
 ![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-0D1117?style=for-the-badge&logo=hackthebox&logoColor=A78BFA)
 ![Linux](https://img.shields.io/badge/LINUX-0D1117?style=for-the-badge&logo=linux&logoColor=white)
 ![Networking](https://img.shields.io/badge/NETWORKING-0D1117?style=for-the-badge&logo=cisco&logoColor=60A5FA)
-![Markdown](https://img.shields.io/badge/DOCUMENTATION-0D1117?style=for-the-badge&logo=markdown&logoColor=A78BFA)
+![Documentation](https://img.shields.io/badge/DOCUMENTATION-0D1117?style=for-the-badge&logo=markdown&logoColor=A78BFA)
 
 </div>
 
@@ -23,32 +19,30 @@
 
 ## `root@orbital:~$ whoami`
 
-Olá! Sou **Thais Coelho**, estudante de Ciência da Computação e entusiasta de Cibersegurança.
+Sou **Thais Coelho**, estudante de Ciência da Computação e entusiasta de Cibersegurança.
 
-O **CyberSec Notes** é minha base de conhecimento sobre Segurança da Informação. Aqui documento conceitos, ferramentas, comandos e laboratórios, com foco em aprendizado contínuo e aplicação prática.
+O **CyberSec Notes** é minha base de conhecimento para documentar conceitos, ferramentas, comandos, análises e laboratórios práticos, com foco em segurança ofensiva **autorizada** e defesa.
 
-```bash
+```text
 thais@orbital:~$ cat mission.txt
-
-[+] Study cybersecurity fundamentals
-[+] Understand networks and operating systems
+[+] Learn the fundamentals
 [+] Practice in authorized environments
-[+] Analyze vulnerabilities and defensive techniques
-[+] Document findings and share knowledge
+[+] Analyze evidence and document findings
+[+] Improve defensive thinking
 ```
 
 ## `root@orbital:~$ ls modules/`
 
 | ID | Módulo | Conteúdo |
 |:--:|:--|:--|
-| 01 | [Fundamentos](./01-Fundamentos/) | Princípios, ameaças e boas práticas |
-| 02 | [Redes de Computadores](./02-Redes/) | TCP/IP, DNS, portas e protocolos |
-| 03 | [Linux](./03-Linux/) | Terminal, permissões e administração |
-| 04 | [OSINT](./04-OSINT/) | Reconhecimento e fontes abertas |
-| 05 | [Pentest](./05-Pentest/) | Enumeração e análise de vulnerabilidades |
-| 06 | [Blue Team](./06-Blue-Team/) | Monitoramento, detecção e resposta |
-| 07 | [Laboratórios](./07-Laboratorios/) | Ambientes controlados e relatórios |
-| 08 | [Ferramentas](./08-Ferramentas/) | Comandos, guias e referências |
+| `01` | [Fundamentos](./01-Fundamentos/) | Modelo CIA, MITRE ATT&CK e incidentes |
+| `02` | [Redes de Computadores](./02-Redes/) | TCP/IP, DNS, portas e protocolos |
+| `03` | [Linux](./03-Linux/) | Terminal, permissões, serviços e logs |
+| `04` | [OSINT](./04-OSINT/) | Reconhecimento e fontes abertas |
+| `05` | [Pentest](./05-Pentest/) | Nmap, enumeração e análise de vulnerabilidades |
+| `06` | [Blue Team](./06-Blue-Team/) | Wireshark, monitoramento e resposta |
+| `07` | [Laboratórios](./07-Laboratorios/) | Ambientes controlados e relatórios |
+| `08` | [Ferramentas](./08-Ferramentas/) | Glossário, comandos e referências |
 
 ## `root@orbital:~$ cat toolkit.md`
 
@@ -58,44 +52,36 @@ thais@orbital:~$ cat mission.txt
 ![Wireshark](https://img.shields.io/badge/Wireshark-111827?style=for-the-badge&logo=wireshark&logoColor=60A5FA)
 ![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=60A5FA)
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=A78BFA)
-![Nmap](https://img.shields.io/badge/Nmap-111827?style=for-the-badge&logoColor=A78BFA)
-![OpenVAS](https://img.shields.io/badge/OpenVAS-111827?style=for-the-badge&logoColor=A78BFA)
+![Nmap](https://img.shields.io/badge/Nmap-111827?style=for-the-badge)
 
 </div>
 
 ## `root@orbital:~$ cat methodology.md`
 
-Cada capítulo segue uma estrutura padronizada:
-
 1. **Fundamentos** — conceitos e contexto.
 2. **Aplicação** — exemplos e comandos comentados.
-3. **Laboratório** — prática em ambiente autorizado.
+3. **Laboratório** — prática em ambiente controlado.
 4. **Evidências** — resultados e observações.
 5. **Conclusão** — aprendizados e recomendações.
-6. **Referências** — fontes e materiais de apoio.
+6. **Referências** — materiais de apoio.
 
 <details>
-<summary><strong>Estrutura técnica do repositório</strong></summary>
+<summary><strong>Como navegar e estudar</strong></summary>
 
-```text
-CyberSec-Notes/
-├── README.md
-├── orbital-cyber-banner.png
-├── 01-Fundamentos/
-├── 02-Redes/
-├── 03-Linux/
-├── 04-OSINT/
-├── 05-Pentest/
-├── 06-Blue-Team/
-├── 07-Laboratorios/
-└── 08-Ferramentas/
-```
+- Comece por Fundamentos e Redes; avance para Linux, OSINT e Pentest.
+- Use o índice de cada pasta para abrir os capítulos.
+- Reproduza exercícios apenas em ambientes próprios ou autorizados.
+- Registre dúvidas, resultados e referências em suas anotações.
 
 </details>
 
 ## `root@orbital:~$ cat ethics.txt`
 
-> **Uso ético e responsável:** todos os exercícios e testes apresentados devem ser realizados exclusivamente em ambientes próprios ou com autorização explícita. O conteúdo tem finalidade educacional.
+> **Uso ético e responsável:** este material tem finalidade educacional. Testes e varreduras devem ocorrer somente em ambientes próprios ou com autorização explícita. Não publique credenciais, dados pessoais ou detalhes sensíveis dos laboratórios.
+
+## Créditos e referências
+
+Parte das anotações foi desenvolvida a partir de estudos no curso **Cibersegurança 2.0 — Kodie Academy**, com organização e redação próprias. Materiais internos e credenciais não são reproduzidos aqui.
 
 ---
 
@@ -105,7 +91,7 @@ CyberSec-Notes/
 
 **Computer Science Student · Cybersecurity Enthusiast**
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thatacoelho.com.br)
+[![Portfólio](https://img.shields.io/badge/PORTFÓLIO-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thatacoelho.com.br)
 
 <sub>CYBERSEC NOTES · LEARN / PRACTICE / DOCUMENT / EVOLVE</sub>
 

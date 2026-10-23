@@ -1,0 +1,7 @@
+# Nunca publique credenciais, fichas respondidas ou material original da escola
+*.docx
+*.pdf
+privado/
+senhas*
+credenciais*
+.env
